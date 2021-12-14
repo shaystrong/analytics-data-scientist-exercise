@@ -2,7 +2,7 @@
 
 Welcome to exercise 1!
 
-In this exercise we want you to use the **exercise_1_dataset.csv** to process, train, and test a regression model.
+In this exercise we want you to use the **exercise_1_dataset.csv** to process, train, and test a regression model. We are most interested in how you approach data curation and modelling. 
 
 In the dataset you will find 29 different features (explanatory features) plus a target variable which is the one that you 
 are supposed to model.
