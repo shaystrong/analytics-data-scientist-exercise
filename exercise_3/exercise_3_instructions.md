@@ -13,4 +13,3 @@ developing that requires to understand the process in order to move forward and 
 The only requirements are dependent on the type of document chosen for the delivery:
 * **Slides**: No more than 5 slides.
 * **Document**: No more than one page.
-* **Other**: Others format are more than welcome but should be consulted via email (**roberto.llop@iceye.fi**) to agree its limits and length.
