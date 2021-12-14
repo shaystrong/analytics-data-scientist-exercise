@@ -9,6 +9,8 @@ In case that there is any question concerning the lack of comprehension of the e
 have to do with the approach that you are taking to solve the exercises as this will be discussed on a later stage in the
 interview process if suitable. We are most interested in how you approach problems, so your demonstration of this is very valuable to us.
 
+Please try to limit your time to now more than 3 hours total for all exercizes.
+
 # Instructions
 
 1. Clone the repository.
