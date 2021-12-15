@@ -10,7 +10,11 @@ via email. However, we kindly ask you to please refrain any questions that  have
 are taking to solve the exercises as this will be discussed on a later stage in the
 interview process if suitable.
 
+We are most interested to assess how you think and present information. These exercises reflect that.
+
 # Instructions
+
+**Please spend no more than 3 hours on these exersices in total.**
 
 1. Clone the repository.
 2. You can find the instructions for each exercise in the correspondent folder e.g exercise_1 for the exercise 1. There is no particular order to complete the exercises as they are independent of each other.
