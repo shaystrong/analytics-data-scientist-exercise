@@ -2,7 +2,7 @@
 
 Welcome to exercise 2!
 
-In this exercise you will have to thoroughly read and synthesize in your preferred document format one of the two technical texts that can be found in the **exercise_2** folder:
+In this exercise you will have to thoroughly read and synthesize in your preferred document format **1** of the 2 technical texts that can be found in the **exercise_2** folder:
 1. exercise_2_text_1.pdf
 2. exercise_2_text_2.pdf
 
@@ -15,4 +15,4 @@ developing that requires to understand the process in order to move forward and 
 The only requirements are dependent on the type of document chosen for the delivery:
 * **Slides**: No more than 5 slides.
 * **Document**: No more than one page.
-* **Other**: Others format are more than welcome but should be consulted via email (**roberto.llop@iceye.fi**) to agree its limits and length.
+* **Other**: Others format are more than welcome but should be consulted via email to agree its limits and length.
