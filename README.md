@@ -14,7 +14,7 @@ We are most interested to assess how you think and present information. These ex
 
 # Instructions
 
-**Please spend no more than 3 hours on these exersices in total.**
+**Please spend no more than 3 hours on these exersizes in total.**
 
 1. Clone the repository.
 2. You can find the instructions for each exercise in the correspondent folder e.g exercise_1 for the exercise 1. There is no particular order to complete the exercises as they are independent of each other.
